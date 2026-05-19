@@ -1,0 +1,21 @@
+ID,First Name,Last Name,Email,Phone,Department,Salary,Start Date,Status,Notes
+1,John,Smith,john.smith@company.com,555-1234,Engineering,75000,2021-03-15,Active,Good performer
+2,jane,DOE,jane.doe@company.com,(555) 2345,Marketing,62000,15/04/2020,active,
+3,BOB,Johnson,bob.johnson@company.com,5553456,Engineering,81000,2019-07-01,ACTIVE,Senior dev
+4,Alice,Williams,,555-4567,HR,58000,2022-01-10,Active,
+5,Charlie,Brown,charlie.brown@company.com,555-5678,Marketing,67000,2020-09-22,Inactive,Left company
+6,john,smith,john.smith@company.com,555-1234,Engineering,75000,2021-03-15,Active,Duplicate row
+7,,Davis,emily.davis@company.com,555-6789,Finance,71000,2018-05-30,active,
+8,Frank,,frank.miller@company.com,5557890,Engineering,79000,2021-11-15,Active,
+9,Grace,Wilson,grace.wilson@company.com,555-8901,HR,55000,2023-02-28,Active,New hire
+10,Henry,Moore,HENRY.MOORE@COMPANY.COM,555-9012,Finance,88000,2017-12-01,active,
+11,Isabella,Taylor,isabella.taylor@company.com,555-0123,Marketing,,2022-06-15,Active,Salary missing
+12,Jack,Anderson,not-an-email,555-1234,Engineering,73000,2020-03-10,Active,Bad email
+13,Karen,Thomas,karen.thomas@company.com,555-2345,HR,61000,2019/08/20,Active,
+14,Liam,Jackson,liam.jackson@company.com,5553456,Finance,92000,2016-04-05,Active,Manager
+15,Mia,White,mia.white@company.com,555-4567,Marketing,64000,2023-07-01,Active,
+16,Noah,Harris,,555-5678,Engineering,77000,2021-09-14,Active,Email missing
+17,Olivia,Martin,olivia.martin@company.com,555-6789,HR,59000,2022-03-22,INACTIVE,Left company
+18,Paul,Garcia,paul.garcia@company.com,555-7890,Finance,83000,2018-10-11,Active,
+19,Quinn,Martinez,quinn.martinez@company.com,555-8901,Marketing,66000,2020-01-30,Active,
+20,Rachel,Robinson,rachel.robinson@company.com,555-9012,Engineering,80000,2019-05-17,Active,
